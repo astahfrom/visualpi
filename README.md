@@ -22,9 +22,10 @@ The number of red dots in red and blue dots in blue.
 
 ## Usage
 
-It's a [Leiningen](https://github.com/technomancy/leiningen) project so you can just pull it and run `lein run` or
-whatever.
-There's also an `uberjar` [externally available](http://rtgkom.dk/~andreashf11/visualpi.jar).
+It's a [Leiningen](https://github.com/technomancy/leiningen) project so you can just pull it and run `lein run`.
+
+## Download
+There's an `uberjar` [externally available](http://rtgkom.dk/~andreashf11/visualpi.jar).
 
 ## License
 
