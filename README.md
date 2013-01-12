@@ -11,6 +11,12 @@ If they're within radius of the
 inscribed circle they're colored red, if not they're colored blue.
 Pi is approximate to the ratio between dots in the circle and all the dots.
 
+
+## Screenshot
+Below is a screenshot of the application running on Windows.
+
+![VisualPi](https://raw.github.com/andreasfrom/visualpi/master/visualpi.png "VisualPi on Windows")
+
 The current approximation of pi is shown in black.
 The number of red dots in red and blue dots in blue.
 
